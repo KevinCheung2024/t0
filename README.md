@@ -3,6 +3,7 @@ ML-Based Intraday High-Frequency Trading Strategy
 
 文件说明：
 ·data.parquet是一只股票（603000）半年的高频数据（3s频率）；该数据缺失，需自行导入
+
 ·trading_dates.csv记录交易日信息
 ·trading_dates.py记录日期处理的各类函数
 ·data_process.py包含数据预处理的各类函数
